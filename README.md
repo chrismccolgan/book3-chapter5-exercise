@@ -1,0 +1,2 @@
+# Book 3 Chapter 5 Exercises: Shaping Data with Array Methods
+Exercises located at https://github.com/nashville-software-school/client-side-mastery/blob/master/book-3-the-initiate/chapters/JS_ARRAY_METHODS.md
